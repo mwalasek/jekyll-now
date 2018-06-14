@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
-Some information about you!
+I am a freelance IT consultant based in Darmstadt (Germany). My main focus is on Web-based systems and applications built on the Java Virtual Machine.
 
-### More Information
+### Languages
 
-A place to include any other types of information that you'd like to include about yourself.
+German, English, Polish - fluent in speaking and writing
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[Email](mailto:mawalasek@gmail.com)
