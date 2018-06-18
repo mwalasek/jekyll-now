@@ -13,3 +13,5 @@ German, English, Polish - fluent in speaking and writing
 ### Contact me
 
 [Email](mailto:mawalasek@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/marek-walasek-01724aa1)
+[MeetUp](https://www.meetup.com/de-DE/members/202370697)
