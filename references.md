@@ -65,12 +65,38 @@ permalink: /references/
 ### Technische Universität Darmstadt
 
 <b>Masters project in Cloud Computing (2015/2016)</b> 
+
 <i>Estimating energy cost of Cloud services and its relation to the fairness of Cloud pricing models.</i>
 * Developing a tool for capturing performance metrics for kernel-based virtual machines (KVM) in an Infrastructure-as-a-Service environment. 
 * Constructing a model of a VM’s energy consumption based on the collected metrics. 
 
 <b>Tools:</b> Python, SciPy, KVM, Ubuntu, Eclipse, Git
 <br/><br/>
+
+### Envite s.c. (2015/2016)
+
+<b>Co-founder and Lead Android Developer</b>
+
+<i>Envite is an app for people who like to play team sports as a recreational activity. It accesses a database of publicly accessible sports fields in the city and lets the user find places to play and socialise with the local sporting community.</i>
+* Refactoring and redesign of an existing Android application
+* Design and implementation of new features based on APIs such as Google Cloud Messaging, Google Maps, and Facebook for Android SDK.
+* Providing task specifications and instruction material to less experienced colleagues working in a remote team (Poland-Germany). 
+
+<b>Tools:</b> Java 7, Android Studio, Gradle, Git, JUnit, Realm, RxJava 
+<br/><br/>
+
+### Yones UG (2012 - 2015)
+
+<b>CTO and Co-founder</b>
+
+<i>Yones is an intelligent news application for iOS, Android, and the Web. It enables the user to create their personal magazine aided by automatic recommendations. The company’s business model consists in subscriptions which give access to paid content from publishing partners. In Nov. 2013 Yones acquired the German EXIST scholarship for high-tech startups.</i>
+* Development of the native Yones app for Android.
+* Development of the Web application with Apache Wicket.
+* Construction of a RESTful web service API for communication between mobile apps and the backend.
+
+<b>Tools:</b> Java 8, JavaScript, HTML/CSS, Eclipse, Apache Wicket, JUnit, Mockito, MySQL, SQLite, JPA/Hibernate, Ubuntu Server, Maven, SVN, Git
+<br/><br/>
+
 
 ## Certification
 
