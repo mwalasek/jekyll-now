@@ -22,7 +22,7 @@ permalink: /references/
 
 ### Hordedelivery.com
 
-<b>Java Microservices</b>
+<b>Java Microservices (2017)</b>
 
 <i>Hordedelivery.com is a service for EVE Online players, which facilitates the execution of task on behalf of the player, such as acquiring items within the game. The application is composed of multiple microservices maintained as open-source Github projects.</i>
 
@@ -30,6 +30,43 @@ permalink: /references/
 * Implementing parts of the [main application frontend](http://github.com/bahrmichael/eve-delivery-service).
 
 <b>Tools: </b>Java 8, Vert.x, Spring Boot, Spring Data, MongoDB, TypeScript, Git, Maven, Docker, IntelliJ IDEA
+
+
+### BAYOONET AG
+
+<b>Android app for diabetes patients (2016)</b>
+<i>The app assists a diabetes patient in their daily life, i.a., through insulin recommendations based on various measurements and tracked activities. The app further allows injecting the hormone via a Bluetooth-connected insulin pump.</i>
+* Modelling app components with UML according to UI guidelines and requirements documents. 
+* Reviewing code, architecture & design documents, test specifications, and related artefacts.
+* Discussing review findings and suggestions for improvement with the customer and the implementation team in India.
+* Design and implementation of unit and instrumentation tests for legacy code.
+
+<b>Tools:</b> Java 7, UML, Android Studio, Enterprise Architect, SVN, JUnit, Mockito/PowerMockito
+
+<b>iPad app for denture occlusion measurement (2016)</b>
+<i>The app supports dentists in digitally measuring denture occlusion with a specific handheld device. The results can be displayed within the app as a 2D/3D model and compared with historical data.</i>
+* Preparing the software requirements specification (SRS). Main focus: inter-device communication via a proprietary TCP/IP-based protocol.
+* Modelling and documenting software architecture with UML.
+* Estimating implementation costs based on own experience and documentation/literature.
+
+<b>Tools:</b> Enterprise Architect, Git, Microsoft Team Foundation Server
+
+<b>Distributed Java/JavaScript financial reporting application (2016)</b>
+<i>The application consists of multiple services which allow efficient processing and provisioning of financial market data.</i> 
+* Developing a component for uploading data about newly emitted securities into the Content Management System and refining the backend to handle large uploads.
+* Developing a NodeJS service for supplying the security information to the end customers in PDF format.
+
+<b>Tools:</b> JavaScript, NodeJS, JPA/Hibernate, Git
+
+
+### Technische Universität Darmstadt
+
+<b>Masters project in Cloud Computing (2015/2016)</b> 
+<i>Estimating energy cost of Cloud services and its relation to the fairness of Cloud pricing models.</i>
+* Developing a tool for capturing performance metrics for kernel-based virtual machines (KVM) in an Infrastructure-as-a-Service environment. 
+* Constructing a model of a VM’s energy consumption based on the collected metrics. 
+
+<b>Tools:</b> Python, SciPy, KVM, Ubuntu, Eclipse, Git
 
 
 ## Certification
